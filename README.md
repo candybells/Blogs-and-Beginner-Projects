@@ -1,2 +1,2 @@
-# Blogs-and-Beginner-Projects
-Stories about my coding journey, fanfics, and other random things.
+# Welcome to my Blog!
+In this repository, I will share my learning, stories, and other things I can do as a beginner.
